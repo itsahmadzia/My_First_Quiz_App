@@ -37,6 +37,7 @@
         android:textSize="16sp" />
 
     <EditText
+        android:autofillHints="name"
         android:id="@+id/nameInput"
         android:layout_width="match_parent"
         android:layout_height="50dp"

@@ -74,6 +74,6 @@
       android:layout_centerHorizontal="true"
       android:layout_marginBottom="30dp"
       android:backgroundTint="@color/dark_green"
-      android:text="Share your score"
+      android:text="@string/share_your_score"
       android:textSize="16sp" />
 </RelativeLayout>

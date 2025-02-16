@@ -16,4 +16,7 @@
     <string name="logo">Logo</string>
     <string name="john_doe">John Doe</string>
     <string name="finish">Finish</string>
+    <string name="share_your_score">Share your score</string>
+    <string name="_7_10">7/10</string>
+    <string name="sample_question">sample question</string>
 </resources>
